@@ -1,0 +1,33 @@
+{
+	"statusChannels": [ "##your-chan" ],
+	"apiKey": "your xboxapi.com key",
+	"updateInterval": "5",
+	
+	"xboxUsers": [
+		{
+			"name": "User1",
+			"nick": "ircNick1",
+			"xuid": "xboxUser1Xuid",
+			"gamertag": "xboxUser1",
+			"state": "Offline",
+			"stateChange": "no",
+			"title": "",
+			"titleChange": "no",
+			"presence": "",
+			"presenceChange": "no",
+		},
+		{
+			"name": "User2",
+			"nick": "ircNick2",
+			"xuid": "xboxUser2Xuid",
+			"gamertag": "xboxUser2",
+			"state": "Offline",
+			"stateChange": "no",
+			"title": "",
+			"titleChange": "no",
+			"presence": "",
+			"presenceChange": "no",
+		}
+	]
+
+}

@@ -1,0 +1,19 @@
+original push 12-27-2014
+
+v1.1 changes:
+
+output for game change only updated to reflect changing game vs coming online
+
+
+
+
+To Do:
+
+xb1 <gamertag>
+	lookup xiud using gamertag so profile lookup can bt done
+	display user profile to channel called from
+		gamerscore
+		account type (gold/silver)
+		rep (good player)
+		tenure level (years on xbox)
+		

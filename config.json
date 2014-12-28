@@ -1,0 +1,6 @@
+{
+	"nick": "botNick",
+	"admin": "yourNick",
+	"network": "irc.freenode.net",
+	"joinChannels": [ "##your-channel" ]
+}
