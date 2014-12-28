@@ -34,9 +34,11 @@ Channel Commands:
 ============
 
 (any user)
-uploads <gamertag> - get last X clips uploaded by user
-	currently only works on users already defined in config
 
+
+uploads (gamertag) - get last X clips uploaded by user
+
+currently only works on users already defined in config
 
 
 To Do:
