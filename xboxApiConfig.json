@@ -1,7 +1,6 @@
 {
 	"statusChannels": [ "##your-chan" ],
 	"apiKey": "your xboxapi.com key",
-	"bitlyApiKey": "your bit.ly api key",
 	"updateInterval": "5",
 	
 	"xboxUsers": [
