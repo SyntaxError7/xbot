@@ -1,7 +1,9 @@
 {
 	"statusChannels": [ "##your-chan" ],
 	"apiKey": "your xboxapi.com key",
+	"bitlyApiKey": "your bitly api key",
 	"updateInterval": "5",
+	"ignoreTitlesWith": [ "Watching TV", "Friends", "YouTube", "My games & apps", "Home", "TV"],
 	
 	"xboxUsers": [
 		{

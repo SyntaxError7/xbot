@@ -4,6 +4,12 @@ v1.1 changes:
 
 output for game change only updated to reflect changing game vs coming online
 
+v1.2 changes:
+
+output changed to allow filtering displayed activities via config file
+changed flow of setStatus condition statements (return instead of nested if else)
+cleaned console output on updates
+better error catching
 
 
 
